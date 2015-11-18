@@ -1,1 +1,2 @@
 ﻿sky     $ git checkout -- <file> ถอยหลัง
+x  git checkout  เป็นการถอย หลังไฟล์ได้ ถอยกับเลข case ได้ 
