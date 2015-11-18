@@ -3,3 +3,5 @@
 1. git config -l เช็คข้อมูล list config ออกมา
 2. git config --global user.email (เพื่อเพิ่ม เมลเข้าไปในตัว config ของโปรแกรม)
 3. git config --global user.name (เพื่อเพิ่มชื่อ ผู้ใช้งาน จะแสดงเมื่อมีการ commit ทุกครั้งว่ามาจากผู้ใช้คนไหน)
+
+x git config  \เป็นการ คอน ฟิก ไฟลื เเค่ ครั้ง เดว
