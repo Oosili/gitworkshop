@@ -1,4 +1,5 @@
-
+﻿
 คำสั่ง git config จะมี 
 1. git config -l เช็คข้อมูล list config ออกมา
-2. git config --global user.email
+2. git config --global user.name กำหนดชื่อผู้ใช้งาน เช่น PC1
+3. git config --global user.email  กำหนด email ของผู้ใช้งาน TTT@hotmail.com
