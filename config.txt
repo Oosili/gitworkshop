@@ -2,8 +2,13 @@
 คำสั่ง git config จะมี 
 1. git config -l เช็คข้อมูล list config ออกมา
 <<<<<<< HEAD
+<<<<<<< HEAD
+2. git config --global user.name กำหนดชื่อผู้ใช้งาน เช่น PC1
+3. git config --global user.email  กำหนด email ของผู้ใช้งาน TTT@hotmail.com
+=======
 2. git config --global user.email
 3. [sky] ใช้ ครั้งเดียว ต่อครั้งเครื่อง
+>>>>>>> 2bf4a74ff445463390ed38877ec88e5ee9560c43
 =======
 2. git config --global user.email (เพื่อเพิ่ม เมลเข้าไปในตัว config ของโปรแกรม)
 3. git config --global user.name (เพื่อเพิ่มชื่อ ผู้ใช้งาน จะแสดงเมื่อมีการ commit ทุกครั้งว่ามาจากผู้ใช้คนไหน)
