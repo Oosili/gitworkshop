@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 git push เพื่ออัพไฟล์ของเราขึ้นไป ให้เพื่อนเห็นเป็นปัจจุบัน
 =======
 ﻿sky   git push การอัพไฟล์ขึ้น server
 >>>>>>> c8451f5e7d9fb31fd63f6e45ebe2819ff2871a1e
+jmgm >> Up files to server. 
