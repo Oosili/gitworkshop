@@ -1,4 +1,5 @@
-
+﻿
 คำสั่ง git config จะมี 
 1. git config -l เช็คข้อมูล list config ออกมา
 2. git config --global user.email
+3. [sky] ใช้ ครั้งเดียว ต่อครั้งเครื่อง
