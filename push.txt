@@ -1,1 +1,1 @@
-﻿git push การอัพไฟล์ขึ้น server
+﻿sky   git push การอัพไฟล์ขึ้น server
